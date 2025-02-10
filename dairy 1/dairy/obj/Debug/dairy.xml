@@ -1,0 +1,196 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+dairy
+</name>
+</assembly>
+<members>
+<member name="T:dairy.databaseDataSet2.Dairy_milkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dairy.databaseDataSet2.Local_saleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dairy.databaseDataSet2.LoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dairy.databaseDataSet2.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dairy.databaseDataSet2.Supplier_PaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dairy.databaseDataSet2.TransectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dairy.databaseDataSet2.Dairy_milkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dairy.databaseDataSet2.Local_saleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dairy.databaseDataSet2.LoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dairy.databaseDataSet2.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dairy.databaseDataSet2.Supplier_PaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dairy.databaseDataSet2.TransectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dairy.databaseDataSet2.Dairy_milkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dairy.databaseDataSet2.Local_saleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dairy.databaseDataSet2.LoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dairy.databaseDataSet2.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dairy.databaseDataSet2.Supplier_PaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dairy.databaseDataSet2.TransectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dairy.databaseDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:dairy.databaseDataSet2TableAdapters.Dairy_milkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dairy.databaseDataSet2TableAdapters.Local_saleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dairy.databaseDataSet2TableAdapters.LoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dairy.databaseDataSet2TableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dairy.databaseDataSet2TableAdapters.Supplier_PaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dairy.databaseDataSet2TableAdapters.TransectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dairy.databaseDataSet1.Dairy_milkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dairy.databaseDataSet1.Local_saleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dairy.databaseDataSet1.LoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dairy.databaseDataSet1.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dairy.databaseDataSet1.Dairy_milkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dairy.databaseDataSet1.Local_saleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dairy.databaseDataSet1.LoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dairy.databaseDataSet1.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dairy.databaseDataSet1.Dairy_milkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dairy.databaseDataSet1.Local_saleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dairy.databaseDataSet1.LoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dairy.databaseDataSet1.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dairy.databaseDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:dairy.databaseDataSet1TableAdapters.Dairy_milkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dairy.databaseDataSet1TableAdapters.Local_saleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dairy.databaseDataSet1TableAdapters.LoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dairy.databaseDataSet1TableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:dairy.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:dairy.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:dairy.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:dairy.databaseDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

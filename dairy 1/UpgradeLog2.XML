@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="dairy">
+</Property><Property Name="Solution File" Value="Z:\PROJECT\dairy 1\dairy.sln">
+</Property><Property Name="User Options File" Value="Z:\PROJECT\dairy 1\dairy.suo">
+</Property><Property Name="Date" Value="Wednesday, January 12, 2011">
+</Property><Property Name="Time" Value="10:11 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="dairy.sln" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy.sln">
+</Event><Event ErrorLevel="0" Project="" Source="dairy.suo" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy.suo">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\dairy.vbproj" Description="Project file successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\dairy.vbproj">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\dairy.vbproj.user" Description="Project user file successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\dairy.vbproj.user">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\CrystalReport1.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\CrystalReport1.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\CrystalReport2.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\CrystalReport2.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\CrystalReport3.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\CrystalReport3.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\CrystalReport4.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\CrystalReport4.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\CrystalReport5.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\CrystalReport5.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\CrystalReport6.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\CrystalReport6.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Dairy_milk.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Dairy_milk.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Dairy_milk.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Dairy_milk.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Dairy_milk_report.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Dairy_milk_report.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Dairy_milk_report.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Dairy_milk_report.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\databaseDataSet.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\databaseDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\databaseDataSet1.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\databaseDataSet1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\databaseDataSet21.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\databaseDataSet21.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supplier Payment.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supplier Payment.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supplier Payment.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supplier Payment.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supplier_Milk_Receiver.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supplier_Milk_Receiver.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supplier_Milk_Receiver.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supplier_Milk_Receiver.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supplier_Payment_Report.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supplier_Payment_Report.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supplier_Payment_Report.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supplier_Payment_Report.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supp_master_report.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supp_master_report.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supp_master_report.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supp_master_report.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Local_sale.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Local_sale.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Local_sale.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Local_sale.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Local_sale_report.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Local_sale_report.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Local_sale_report.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Local_sale_report.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Login_master.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Login_master.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Login_master.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Login_master.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\main_form.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\main_form.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\main_form.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\main_form.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\My Project\AssemblyInfo.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\My Project\Application.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\My Project\Resources.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\My Project\Settings.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supp_master.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supp_master.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supp_master.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supp_master.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supp_Milk_Receiver_report.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supp_Milk_Receiver_report.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supp_Milk_Receiver_report.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supp_Milk_Receiver_report.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Transectino_Report.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Transectino_Report.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Transectino_Report.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Transectino_Report.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Transection.Designer.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Transection.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Transection.vb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Transection.vb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\app.config" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\app.config">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\databaseDataSet.xsc" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\databaseDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\databaseDataSet.xsd" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\databaseDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\databaseDataSet.xss" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\databaseDataSet.xss">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\databaseDataSet1.xsc" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\databaseDataSet1.xsc">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\databaseDataSet1.xsd" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\databaseDataSet1.xsd">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\databaseDataSet1.xss" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\databaseDataSet1.xss">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\My Project\Application.myapp" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\My Project\Settings.settings" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\databaseDataSet21.xsc" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\databaseDataSet21.xsc">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\databaseDataSet21.xsd" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\databaseDataSet21.xsd">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\databaseDataSet21.xss" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\databaseDataSet21.xss">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Resources\milk_2.jpg" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Resources\milk_2.jpg">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Resources\Dairy11.JPG" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Resources\Dairy11.JPG">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Resources\Dairy1.JPG" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Resources\Dairy1.JPG">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Resources\MDI.JPG" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Resources\MDI.JPG">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Resources\COW11.JPG" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Resources\COW11.JPG">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Resources\COW1.JPG" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Resources\COW1.JPG">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Resources\connected_multiple_big1.jpg" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Resources\connected_multiple_big1.jpg">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\database.mdb" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\database.mdb">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\CrystalReport1.rpt" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\CrystalReport1.rpt">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\CrystalReport2.rpt" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\CrystalReport2.rpt">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\CrystalReport3.rpt" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\CrystalReport3.rpt">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\CrystalReport4.rpt" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\CrystalReport4.rpt">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\CrystalReport5.rpt" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\CrystalReport5.rpt">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\CrystalReport6.rpt" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\CrystalReport6.rpt">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Dairy_milk.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Dairy_milk.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Dairy_milk_report.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Dairy_milk_report.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Local_sale.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Local_sale.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Local_sale_report.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Local_sale_report.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Login_master.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Login_master.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\main_form.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\main_form.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\My Project\Resources.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supplier Payment.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supplier Payment.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supplier_Milk_Receiver.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supplier_Milk_Receiver.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supplier_Payment_Report.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supplier_Payment_Report.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supp_master.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supp_master.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supp_master_report.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supp_master_report.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Supp_Milk_Receiver_report.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Supp_Milk_Receiver_report.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Transectino_Report.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Transectino_Report.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\Transection.resx" Description="File successfully backed up as Z:\PROJECT\dairy 1\Backup1\dairy\Transection.resx">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\dairy.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="dairy" Source="dairy\dairy.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="dairy.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="dairy.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="dairy" Source="dairy\dairy.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

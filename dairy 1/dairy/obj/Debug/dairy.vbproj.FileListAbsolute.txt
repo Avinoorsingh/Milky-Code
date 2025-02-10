@@ -1,0 +1,129 @@
+Z:\PROJECT\dairy 1\dairy\bin\Debug\dairy.exe.config
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.exe
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.xml
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.pdb
+Z:\PROJECT\dairy 1\dairy\bin\Debug\database.mdb
+Z:\PROJECT\dairy 1\dairy\bin\Debug\dairy.exe
+Z:\PROJECT\dairy 1\dairy\bin\Debug\dairy.pdb
+Z:\PROJECT\dairy 1\dairy\bin\Debug\dairy.xml
+Z:\PROJECT\dairy 1\dairy\obj\Debug\ResolveAssemblyReference.cache
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Dairy_milk.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Dairy_milk_report.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Local_sale.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Local_sale_report.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Login_master.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.main_form.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Resources.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Supplier_Payment.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Supplier_Milk_Receiver.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Supplier_Payment_Report.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Supp_master.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Supp_master_report.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Supp_Milk_Receiver_report.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Transectino_Report.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.Transection.resources
+Z:\PROJECT\dairy 1\dairy\obj\Debug\dairy.vbproj.GenerateResource.Cache
+F:\jignesh\dairy 1\dairy\bin\Debug\dairy.exe.config
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.exe
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.xml
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.pdb
+F:\jignesh\dairy 1\dairy\bin\Debug\database.mdb
+F:\jignesh\dairy 1\dairy\bin\Debug\dairy.exe
+F:\jignesh\dairy 1\dairy\bin\Debug\dairy.pdb
+F:\jignesh\dairy 1\dairy\bin\Debug\dairy.xml
+F:\jignesh\dairy 1\dairy\obj\Debug\ResolveAssemblyReference.cache
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Dairy_milk.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Dairy_milk_report.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Local_sale.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Local_sale_report.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Login_master.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.main_form.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Resources.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Supplier_Payment.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Supplier_Milk_Receiver.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Supplier_Payment_Report.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Supp_master.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Supp_master_report.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Supp_Milk_Receiver_report.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Transectino_Report.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.Transection.resources
+F:\jignesh\dairy 1\dairy\obj\Debug\dairy.vbproj.GenerateResource.Cache
+F:\dairy 1\dairy\bin\Debug\dairy.exe.config
+F:\dairy 1\dairy\obj\Debug\dairy.exe
+F:\dairy 1\dairy\obj\Debug\dairy.xml
+F:\dairy 1\dairy\obj\Debug\dairy.pdb
+F:\dairy 1\dairy\bin\Debug\database.mdb
+F:\dairy 1\dairy\bin\Debug\dairy.exe
+F:\dairy 1\dairy\bin\Debug\dairy.pdb
+F:\dairy 1\dairy\bin\Debug\dairy.xml
+F:\dairy 1\dairy\obj\Debug\ResolveAssemblyReference.cache
+F:\dairy 1\dairy\obj\Debug\dairy.Dairy_milk.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Dairy_milk_report.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Local_sale.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Local_sale_report.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Login_master.resources
+F:\dairy 1\dairy\obj\Debug\dairy.main_form.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Resources.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Supplier_Payment.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Supplier_Milk_Receiver.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Supplier_Payment_Report.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Supp_master.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Supp_master_report.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Supp_Milk_Receiver_report.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Transectino_Report.resources
+F:\dairy 1\dairy\obj\Debug\dairy.Transection.resources
+F:\dairy 1\dairy\obj\Debug\dairy.vbproj.GenerateResource.Cache
+Z:\dairy 1\dairy\bin\Debug\dairy.exe.config
+Z:\dairy 1\dairy\obj\Debug\dairy.exe
+Z:\dairy 1\dairy\obj\Debug\dairy.xml
+Z:\dairy 1\dairy\obj\Debug\dairy.pdb
+Z:\rohit proj\dairy 1\dairy\bin\Debug\database.mdb
+Z:\rohit proj\dairy 1\dairy\bin\Debug\dairy.exe.config
+Z:\rohit proj\dairy 1\dairy\bin\Debug\dairy.exe
+Z:\rohit proj\dairy 1\dairy\bin\Debug\dairy.pdb
+Z:\rohit proj\dairy 1\dairy\bin\Debug\dairy.xml
+Z:\rohit proj\dairy 1\dairy\obj\Debug\ResolveAssemblyReference.cache
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Dairy_milk.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Dairy_milk_report.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Local_sale.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Local_sale_report.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Login_master.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.main_form.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Resources.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Supplier_Payment.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Supplier_Milk_Receiver.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Supplier_Payment_Report.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Supp_master.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Supp_master_report.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Supp_Milk_Receiver_report.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Transectino_Report.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.Transection.resources
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.vbproj.GenerateResource.Cache
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.exe
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.xml
+Z:\rohit proj\dairy 1\dairy\obj\Debug\dairy.pdb
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\bin\Debug\dairy.exe.config
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.exe
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.xml
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.pdb
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\bin\Debug\database.mdb
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\bin\Debug\dairy.exe
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\bin\Debug\dairy.pdb
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\bin\Debug\dairy.xml
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\ResolveAssemblyReference.cache
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Dairy_milk.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Dairy_milk_report.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Local_sale.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Local_sale_report.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Login_master.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.main_form.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Resources.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Supplier_Payment.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Supplier_Milk_Receiver.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Supplier_Payment_Report.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Supp_master.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Supp_master_report.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Supp_Milk_Receiver_report.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Transectino_Report.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.Transection.resources
+F:\TYBCA201011\G.NO-61\R\dairy 1\dairy\obj\Debug\dairy.vbproj.GenerateResource.Cache

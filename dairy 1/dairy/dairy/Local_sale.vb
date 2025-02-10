@@ -1,0 +1,216 @@
+Imports System
+Imports System.Data
+Imports System.Data.OleDb
+Public Class Local_sale
+    Dim cn As New OleDbConnection("provider=microsoft.jet.oledb.4.0;data source=C:\dairy\dairy\database.mdb")
+    Dim dr As OleDbDataReader
+    Dim mytable As DataTable
+    Dim rownumber As Integer
+    Dim myrow As Data.DataRow
+    Dim ds As New DataSet()
+    Dim da As New OleDbDataAdapter
+    Public Sub get_no()
+        Dim no As Integer
+        cn.Open()
+        Try
+            Dim cmd As New OleDbCommand("select count(*) from Local_sale", cn)
+            no = cmd.ExecuteScalar
+
+            If (no = 0) Then
+                txtBILLNO.Text = 1
+            Else
+                txtBILLNO.Text = no + 1
+            End If
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+        cn.Close()
+    End Sub
+    Sub show1()
+        Dim da As New OleDbDataAdapter("select * from Local_sale", cn)
+        Dim dt As New DataTable
+        da.Fill(dt)
+        DataGridView1.DataSource = dt
+    End Sub
+    Public Sub textblank()
+        txtBILLNO.Text = ""
+        ' DateTimePicker1.Value = ""
+        txtQUALITY.Text = ""
+        TextBox4.Text = ""
+        TextBox5.Text = ""
+    End Sub
+
+    Private Sub btnINSERT_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnINSERT.Click
+        cn.Open()
+        Dim no As Integer
+        Try
+            If txtBILLNO.Text = "" Or DateTimePicker1.Text = "" Or TextBox4.Text = "" Or TextBox5.Text = "" Then
+                MsgBox("Please enter the value ")
+            Else
+                Dim cmd1 As New OleDbCommand("select * from Local_sale where Billno=" & Trim(txtBILLNO.Text) & " ", cn)
+                dr = cmd1.ExecuteReader
+                If dr.Read Then
+                    no = dr(0)
+                End If
+                If (no = txtBILLNO.Text) Then
+                    MsgBox("This Bill_no is Exist= " & txtBILLNO.Text)
+                    txtBILLNO.Focus()
+                Else
+
+                    Dim cmd As New OleDbCommand("insert into Local_sale values(" & txtBILLNO.Text & ",'" & Trim(DateTimePicker1.Text) & "'," & txtQUALITY.Text & "," & TextBox4.Text & "," & TextBox5.Text & " ) ", cn)
+                    cmd.ExecuteNonQuery()
+                    Call textblank()
+                    show1()
+                End If
+            End If
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+
+        cn.Close()
+        MsgBox("insert successful completed")
+        Call textblank()
+    End Sub
+
+    Private Sub btnDELETE_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnDELETE.Click
+        cn.Open()
+        Dim cmd As New OleDbCommand("delete from Local_sale where Billno=" & txtBILLNO.Text & " ", cn)
+        cmd.ExecuteNonQuery()
+        show1()
+        Call textblank()
+    End Sub
+
+    Private Sub btnUPDATE_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnUPDATE.Click
+        Try
+            If txtBILLNO.Text = "" Or DateTimePicker1.Text = "" Or txtQUALITY.Text = "" Or TextBox4.Text = "" Then
+                MsgBox("Please enter the value ")
+            Else
+                cn.Open()
+                Dim cmd As New OleDbCommand("update Local_sale set Quantity=" & Trim(txtQUALITY.Text) & ",Rate=" & Trim(TextBox4.Text) & ",Amount=" & Trim(TextBox5.Text) & " where  Billno=" & txtBILLNO.Text & " ", cn)
+                cmd.ExecuteNonQuery()
+                Call textblank()
+                show1()
+            End If
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+        txtBILLNO.Enabled = True
+        DataGridView1.Refresh()
+        cn.Close()
+    End Sub
+
+
+    Private Sub btnNEW_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnNEW.Click
+        Call textblank()
+        get_no()
+    End Sub
+
+    Private Sub btnCLEAR_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCLEAR.Click
+        txtBILLNO.Text = ""
+        ' DateTimePicker1.Value = ""
+        txtQUALITY.Text = ""
+        TextBox4.Text = ""
+        TextBox5.Text = ""
+    End Sub
+
+    Private Sub btnVIEW_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnVIEW.Click
+        cn.Open()
+        show1()
+        cn.Close()
+    End Sub
+
+    Private Sub btnFIRST_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnFIRST.Click
+        rownumber = 0
+        showdata()
+    End Sub
+
+    Private Sub btnNEXT_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnNEXT.Click
+        rownumber = rownumber + 1
+
+        If rownumber > mytable.Rows.Count - 1 Then
+
+            rownumber = mytable.Rows.Count - 1
+
+        End If
+
+        showdata()
+    End Sub
+
+    Private Sub btnLAST_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnLAST.Click
+        rownumber = mytable.Rows.Count - 1
+
+        showdata()
+    End Sub
+
+    Private Sub btnSEARCH_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSEARCH.Click
+        Dim f As Integer
+        cn.Open()
+        f = 0
+
+        If txtBILLNO.Text = "" Then
+            MsgBox("Please Enter The Value ")
+        Else
+            Dim cmd As New OleDbCommand("select * from Local_sale where Billno=" & txtBILLNO.Text & " ", cn)
+            dr = cmd.ExecuteReader
+            If dr.Read Then
+                f = 1
+                txtBILLNO.Text = dr(0)
+                DateTimePicker1.Text = dr(1).ToString
+                txtQUALITY.Text = dr(2)
+                TextBox4.Text = dr(3)
+                TextBox5.Text = dr(4)
+
+
+            End If
+
+            If f = 1 Then
+                MsgBox(" You have succefully search")
+            Else
+                MsgBox(" You have not succefully search")
+                txtBILLNO.Focus()
+            End If
+
+        End If
+        cn.Close()
+    End Sub
+    Public Sub showdata()
+
+
+        Dim da As New OleDbDataAdapter("select * from Local_sale", cn)
+        da.Fill(ds, "Local_sale")
+        mytable = ds.Tables("Local_sale")
+        myrow = mytable.Rows.Item(rownumber)
+
+        txtBILLNO.Text = myrow.Item("Billno").ToString
+        DateTimePicker1.Text = myrow.Item("Cdate").ToString
+        txtQUALITY.Text = myrow.Item("Quantity").ToString
+        TextBox4.Text = myrow.Item("Rate").ToString
+        TextBox5.Text = myrow.Item("Amount").ToString
+
+    End Sub
+
+    Private Sub btnEXIT_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnEXIT.Click
+        Me.Close()
+    End Sub
+
+    Private Sub btnPREVIOU_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnPREVIOU.Click
+        rownumber = rownumber - 1
+
+        If rownumber < 0 Then
+
+            rownumber = 0
+
+
+        End If
+
+        showdata()
+        MsgBox("Record No:[" & rownumber + 1 & "]")
+    End Sub
+
+    Private Sub TextBox4_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox4.TextChanged
+        TextBox5.Text = Val(txtQUALITY.Text) * Val(TextBox4.Text)
+    End Sub
+End Class
+
+
+
