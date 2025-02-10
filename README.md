@@ -1,0 +1,1 @@
+This is a Dairy Management System project developed in c#.net.This windows based project deal with maintaining record of collection of Milk,Accounting of milk,Stock management and other various inventory task related to Dairy.
